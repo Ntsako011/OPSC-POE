@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adlam_display</item>
+        <item>@font/angkor</item>
+        <item>@font/baloo_bhaijaan</item>
+        <item>@font/tomorrow_thin</item>
+    </array>
+</resources>
