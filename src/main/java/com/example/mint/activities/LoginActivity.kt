@@ -46,6 +46,7 @@ class LoginActivity : AppCompatActivity() {
                 val categoryCount = databaseHelper.getCategoryCountForUser(userId)
                 Toast.makeText(this, "Login Successful!!", Toast.LENGTH_SHORT).show()
 
+                databaseHelper.insertDefaultBadgesForUser()
                 val sharedPreferences = getSharedPreferences("user_session", Context.MODE_PRIVATE)
                 sharedPreferences.edit() {
                     putString("username", username) // Save username

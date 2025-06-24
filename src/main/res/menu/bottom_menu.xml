@@ -17,6 +17,8 @@
         android:title="@string/categories"
         android:icon="@drawable/categories"/>
 
+
+
     <item android:id="@+id/settingsMn"
         android:title="@string/settings"
         android:icon="@drawable/settings"/>

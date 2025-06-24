@@ -12,6 +12,7 @@ import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContentProviderCompat.requireContext
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.mint.R
@@ -159,13 +160,14 @@ class CreateExpensesActivity : AppCompatActivity() {
             }
 
             val success = dbHelper.insertExpense(
+                context = this,   // pass context here
                 userId = userId,
                 amount = amount,
                 categoryId = categoryId,
                 date = date,
                 description = description,
                 expenseName = name,
-                imageUri = selectedImageUri?.path ,
+                imageUri = selectedImageUri?.path,
                 startTime = startTime,
                 endTime = endTime
             )

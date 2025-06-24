@@ -1,6 +1,7 @@
 package com.example.mint.fragments
 
 import android.content.Context
+import android.content.Intent
 import android.content.SharedPreferences
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,6 +9,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import com.example.mint.activities.BadgeActivity
 import com.example.mint.databinding.FragmentSettingsBinding
 import com.example.mint.helpers.DbHelper
 
@@ -32,12 +34,22 @@ class SettingsFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
+        binding.badgesButton.setOnClickListener {
+            val intent = Intent(requireContext(), BadgeActivity::class.java)
+            startActivity(intent)
+        }
+
         binding.saveButton.setOnClickListener {
             val minGoal = binding.minGoalEditText.text.toString().toDoubleOrNull()
             val maxGoal = binding.maxGoalEditText.text.toString().toDoubleOrNull()
 
             if (minGoal == null || maxGoal == null) {
-                Toast.makeText(requireContext(), "Please enter valid goals", Toast.LENGTH_SHORT).show()
+                Toast.makeText(requireContext(), "Please enter valid numeric goals", Toast.LENGTH_SHORT).show()
+                return@setOnClickListener
+            }
+
+            if (minGoal > maxGoal) {
+                Toast.makeText(requireContext(), "Minimum goal cannot be greater than maximum goal", Toast.LENGTH_SHORT).show()
                 return@setOnClickListener
             }
 
@@ -55,6 +67,8 @@ class SettingsFragment : Fragment() {
             }
         }
     }
+
+
 
     override fun onDestroyView() {
         super.onDestroyView()

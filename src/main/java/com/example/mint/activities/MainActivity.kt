@@ -8,6 +8,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import com.example.mint.R
 import com.example.mint.databinding.ActivityMainBinding
+import com.example.mint.fragments.BadgesFragment
 import com.example.mint.fragments.CategoriesFragment
 import com.example.mint.fragments.ExpensesFragment
 import com.example.mint.fragments.HomeFragment
@@ -33,6 +34,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.incomesMn -> replaceFragment(IncomesFragment())
                 R.id.categoriesMn -> replaceFragment(CategoriesFragment())
                 R.id.settingsMn -> replaceFragment(SettingsFragment())
+
                 else -> return@setOnItemSelectedListener false
             }
             true

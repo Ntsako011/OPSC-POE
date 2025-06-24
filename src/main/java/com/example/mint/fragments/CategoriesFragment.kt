@@ -3,6 +3,7 @@ package com.example.mint.fragments
 import android.app.DatePickerDialog
 import android.content.Context
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -16,6 +17,11 @@ import com.example.mint.adapters.CategoryAdapter
 import com.example.mint.databinding.FragmentCategoriesBinding
 import com.example.mint.helpers.DbHelper
 import com.example.mint.models.CategoryTotal
+import com.github.mikephil.charting.animation.Easing
+import com.github.mikephil.charting.data.PieData
+import com.github.mikephil.charting.data.PieDataSet
+import com.github.mikephil.charting.data.PieEntry
+import com.github.mikephil.charting.utils.ColorTemplate
 import java.util.Calendar
 import java.util.Locale
 
@@ -51,7 +57,15 @@ class CategoriesFragment : Fragment() {
             userId = dbHelper.getUserId(username)
 
             if (userId != null) {
-                // Initially show all-time category totals
+                // 🔹 Get goals and show them
+                val goals = dbHelper.getSpendingGoals(userId!!)
+                if (goals != null) {
+                    val (minGoal, maxGoal) = goals
+                    binding.minGoalTextView.text = "Min Goal: R %.2f".format(minGoal)
+                    binding.maxGoalTextView.text = "Max Goal: R %.2f".format(maxGoal)
+                }
+
+                // 🔹 Show all-time category totals
                 val categoryTotals = dbHelper.getTotalSpentByCategory(userId!!, "0000-01-01", "9999-12-31")
                 displayCategoryTotals(categoryTotals)
 
@@ -95,9 +109,36 @@ class CategoriesFragment : Fragment() {
         val totalAmount = categoryTotals.sumOf { it.totalSpent }
         binding.totalAmtTv.text = "R %.2f".format(totalAmount)
 
+        // RecyclerView setup
         adapter = CategoryAdapter(categoryTotals)
         binding.categoriesRecyclerView.layoutManager = LinearLayoutManager(requireContext())
         binding.categoriesRecyclerView.adapter = adapter
+
+        // Pie chart entries
+        val pieEntries = categoryTotals.map {
+            PieEntry(it.totalSpent.toFloat(), it.categoryName)
+        }
+
+        val dataSet = PieDataSet(pieEntries, "").apply {
+            colors = ColorTemplate.MATERIAL_COLORS.toList()
+            valueTextColor = Color.WHITE
+            valueTextSize = 14f
+        }
+
+        val pieData = PieData(dataSet)
+
+        binding.categoryPieChart.apply {
+            data = pieData
+            setUsePercentValues(true)
+            setEntryLabelColor(Color.WHITE)
+            setEntryLabelTextSize(12f)
+            centerText = "Spending by Category"
+            setCenterTextSize(16f)
+            legend.textColor = Color.WHITE
+            description.isEnabled = false
+            animateY(1000, Easing.EaseInOutQuad)
+            invalidate()
+        }
     }
 
     override fun onDestroyView() {
