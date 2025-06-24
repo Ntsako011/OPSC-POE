@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_create_expenses.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_create_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_create_incomes.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_create_incomes.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\income_item.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\income_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\fragment_badges.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_badges.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_create_categories.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_create_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\category_item.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\badge_item.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\badge_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\fragment_categories.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\fragment_expenses.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\activity_badge.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\fragment_incomes.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_incomes.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-mergeDebugResources-33:\\layout\\expense_item.xml",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\expense_item.xml"
+    },
+    {
+        "merged": "com.example.mint.app-mergeDebugResources-33:/layout/activity_badge.xml",
+        "source": "com.example.mint.app-main-36:/layout/activity_badge.xml"
+    }
+]

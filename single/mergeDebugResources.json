@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_fragment_badges.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_badges.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_person_icon.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\person_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\font_angkor.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\font\\angkor.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_shape_button.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\shape_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\font_tomorrow_thin.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\font\\tomorrow_thin.xml"
+    },
+    {
+        "merged": "com.example.mint.app-debug-34:/drawable_first_step_icon.png.flat",
+        "source": "com.example.mint.app-main-36:/drawable/first_step_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_create_expenses.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_create_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_budget.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_shape_img.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\shape_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\font_adlam_display.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\font\\adlam_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_shape_edittext.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\shape_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\font_baloo_bhaijaan.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\font\\baloo_bhaijaan.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_expense_logger_icon.png.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\expense_logger_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_category_item.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_goal_getter_icon.png.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\goal_getter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_gradient_card.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\gradient_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_category_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_category_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_fragment_categories.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_create_categories.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_create_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_expense_item.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\expense_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_create_incomes.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_create_incomes.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_attach_money_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_expenses.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_settings.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_security_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_income_item.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\income_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_badge.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_shape_image.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\shape_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_fragment_expenses.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mint.app-debug-34:/drawable_star_icon.png.flat",
+        "source": "com.example.mint.app-main-36:/drawable/star_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_budget_master_icon.png.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\budget_master_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_categories.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_fragment_incomes.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\fragment_incomes.xml"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-debug-34:\\layout_badge_item.xml.flat",
+        "source": "C:\\Users\\mhlon\\.gradle\\daemon\\8.11.1\\com.example.mint.app-main-36:\\layout\\badge_item.xml"
+    }
+]
